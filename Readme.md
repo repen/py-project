@@ -2,7 +2,9 @@
 
 Минимальный набор для создания различных скриптов на Python.
 
-Клонируем репозиторий `git clone https://github.com/repen/py-project.git`.
+Клонируем репозиторий `git clone https://github.com/repen/py-project.git` в любое удобное место. 
+
+Переходим внутрь директории `cd py-project`
 
 Установка:
 
